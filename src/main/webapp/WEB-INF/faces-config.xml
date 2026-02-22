@@ -9,7 +9,7 @@
 			<default-locale>pt_BR</default-locale>
 		</locale-config>
 		
-		<message-bundle>ValidantionMessages.validation</message-bundle>
+		<message-bundle>ValidationMessages.validation</message-bundle>
 	</application>
 
 	
